@@ -3,14 +3,17 @@
 ---
 ##### MY CERTIFICATIONS:-
 
-<div style="display: flex; justify-content: center;">
+# My Certifications
+
+<div style="text-align: center;">
   <a href="https://www.credly.com/badges/e2222fbd-9c01-4064-be2f-0c1d5fd127e0/linked_in_profile" target="_blank" style="margin: 0 20px;">
-    <img src="https://raw.githubusercontent.com/kevinndungu-source/kevinndungu-source/main/Badges/AWS_SAA.png" alt="AWS SAA">
+    <img src="image-1.png" alt="AWS SAA">
   </a>
   <a href="https://www.credly.com/badges/16d6ac8f-251c-4992-80d7-211446d48d65/linked_in_profile" target="_blank" style="margin: 0 20px;">
-    <img src="https://raw.githubusercontent.com/kevinndungu-source/kevinndungu-source/main/Badges/AWS_CP.jpg" alt="AWS CP">
+    <img src="image.png" alt="AWS CP">
   </a>
 </div>
+
 
 
 ---
