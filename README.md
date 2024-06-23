@@ -1,4 +1,4 @@
-![KEVIN NDUNGU (1)](https://github.com/kevinndungu-source/Website_Hosting_On_Amazon_S3/assets/114335263/2e771cb3-d96c-4c98-8873-4cb26105443c)
+![KEVIN NDUNGU (1)](https://github.com/kevinndungu-source/kevinndungu-source/assets/114335263/c9685da0-a652-404b-a090-0d0e6a5279b8)
 
 
 ---
@@ -14,8 +14,6 @@ Here are some ideas to get you started:
 - 🌱 I’m currently implementing Infrastructure as Code (IaC) applications.
 - 👯 I’m looking to collaborate on the AWS cloud architecture of robust Data Pipelines.
 - 💬 Ask me about Machine Learning and automation.
-- 📫 How to reach me: [![LINKEDIN 1](https://github.com/kevinndungu-source/kevinndungu-source/assets/114335263/2b3a11f6-5fc9-4722-9725-f56d7279dd9a)](https://www.linkedin.com/in/kevinndungu789/)
-
 - 😄 Pronouns: He/Him.
 - ⚡ Fun fact: I love tinkering with networking structures i.e. home lab servers.
 
