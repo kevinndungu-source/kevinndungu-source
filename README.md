@@ -3,8 +3,8 @@
 ---
 ##### MY CERTIFICATIONS:-
 
-[![AWS_SAA](kevinndungu-source/kevinndungu-source/Badges/AWS_SAA.png)](https://www.credly.com/badges/e2222fbd-9c01-4064-be2f-0c1d5fd127e0/linked_in_profile)
-[![AWS_CP](kevinndungu-source/kevinndungu-source/Badges/AWS_CP.jpg)](https://www.credly.com/badges/16d6ac8f-251c-4992-80d7-211446d48d65/linked_in_profile)
+[![AWS_SAA](https://github.com/kevinndungu-source/kevinndungu-source/Badges/AWS_SAA.png)](https://www.credly.com/badges/e2222fbd-9c01-4064-be2f-0c1d5fd127e0/linked_in_profile)
+[![AWS_CP](https://github.com/kevinndungu-source/kevinndungu-source/Badges/AWS_CP.jpg)](https://www.credly.com/badges/16d6ac8f-251c-4992-80d7-211446d48d65/linked_in_profile)
 
 
 
