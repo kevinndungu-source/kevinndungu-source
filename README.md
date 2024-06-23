@@ -3,16 +3,9 @@
 ---
 ##### MY CERTIFICATIONS:-
 
-# My Certifications
+[![AWS_SAA](image-1.png)](https://www.credly.com/badges/e2222fbd-9c01-4064-be2f-0c1d5fd127e0/linked_in_profile)
+[![AWS_CP](image.png)](https://www.credly.com/badges/16d6ac8f-251c-4992-80d7-211446d48d65/linked_in_profile)
 
-<div style="text-align: center;">
-  <a href="https://www.credly.com/badges/e2222fbd-9c01-4064-be2f-0c1d5fd127e0/linked_in_profile" target="_blank" style="margin: 0 20px;">
-    <img src="image-1.png" alt="AWS SAA">
-  </a>
-  <a href="https://www.credly.com/badges/16d6ac8f-251c-4992-80d7-211446d48d65/linked_in_profile" target="_blank" style="margin: 0 20px;">
-    <img src="image.png" alt="AWS CP">
-  </a>
-</div>
 
 
 
