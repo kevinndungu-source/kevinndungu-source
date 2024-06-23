@@ -3,20 +3,8 @@
 ---
 ##### MY CERTIFICATIONS:-
 
-<table align="center">
-  <tr>
-    <td>
-      <a href="https://www.credly.com/badges/e2222fbd-9c01-4064-be2f-0c1d5fd127e0/linked_in_profile" target="_blank">
-        <img src="https://github.com/kevinndungu-source/Website_Hosting_On_Amazon_S3/assets/114335263/d1e091cf-f661-4b43-ba71-7acc955914b6" alt="AWS SAA 1">
-      </a>
-    </td>
-    <td>
-      <a href="https://www.credly.com/badges/16d6ac8f-251c-4992-80d7-211446d48d65/linked_in_profile" target="_blank">
-        <img src="https://github.com/kevinndungu-source/Website_Hosting_On_Amazon_S3/assets/114335263/6a149bdb-fd37-4b39-9af2-7e2c0bcd3b79" alt="AWS CP">
-      </a>
-    </td>
-  </tr>
-</table>
+[![AWS SAA 1](https://github.com/kevinndungu-source/Website_Hosting_On_Amazon_S3/assets/114335263/d1e091cf-f661-4b43-ba71-7acc955914b6)](https://www.credly.com/badges/e2222fbd-9c01-4064-be2f-0c1d5fd127e0/linked_in_profile)
+[![AWS CP](https://github.com/kevinndungu-source/Website_Hosting_On_Amazon_S3/assets/114335263/6a149bdb-fd37-4b39-9af2-7e2c0bcd3b79)](https://www.credly.com/badges/16d6ac8f-251c-4992-80d7-211446d48d65/linked_in_profile)
 
 
 ---
