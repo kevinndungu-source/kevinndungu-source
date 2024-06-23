@@ -1,8 +1,7 @@
-![KEVIN NDUNGU (1)](https://github.com/kevinndungu-source/kevinndungu-source/assets/114335263/c9685da0-a652-404b-a090-0d0e6a5279b8)
-
+![KEVIN NDUNGU (1)](https://github.com/kevinndungu-source/kevinndungu-source/assets/114335263/b9d4dafb-d6d0-4936-bb6b-d0d2ed000a56)
 
 ---
-### MY CERTIFICATIONS:-
+##### MY CERTIFICATIONS:-
 
 <table align="center">
   <tr>
