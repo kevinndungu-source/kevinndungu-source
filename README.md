@@ -1,13 +1,19 @@
-![KEVIN NDUNGU (1)](https://github.com/kevinndungu-source/kevinndungu-source/assets/114335263/b9d4dafb-d6d0-4936-bb6b-d0d2ed000a56)
+
+
+![KEVIN NDUNGU](https://github.com/kevinndungu-source/kevinndungu-source/assets/114335263/0fc7fe6c-cc9a-42bb-89b5-8cc8be7f177c)
+
+
+---
+<p align="center">
+Welcome to my GitHub portfolio: a collection of data-driven projects demonstrating my cloud data engineering, data analytics, and business intelligence expertise. Every project demonstrates my commitment to 
+using cutting-edge technology and a strong data infrastructure to create perceptive solutions. Please take a moment to review each project to see the variety of data analytics and engineering talents I possess.
+</p>
 
 ---
 ##### MY CERTIFICATIONS:-
 
 [![AWS_SAA](image-1.png)](https://www.credly.com/badges/e2222fbd-9c01-4064-be2f-0c1d5fd127e0/linked_in_profile)
 [![AWS_CP](image.png)](https://www.credly.com/badges/16d6ac8f-251c-4992-80d7-211446d48d65/linked_in_profile)
-
-
-
 
 ---
 <!--
