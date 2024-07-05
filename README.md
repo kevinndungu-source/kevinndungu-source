@@ -5,8 +5,8 @@
 
 ---
 
-Welcome to my **GitHub** **portfolio**: a collection of data-driven projects demonstrating my **cloud data engineering,** **data analytics,** and **business intelligence** expertise. Every project demonstrates my commitment to using cutting-edge technology and a strong data infrastructure to create perceptive solutions. Please take a moment to review each project to see the variety of data analytics and engineering talents I possess.
-
+>Welcome to my **GitHub** **portfolio**: a collection of data-driven projects demonstrating my **cloud data engineering,** **data analytics,** and **business intelligence** expertise. Every project demonstrates my commitment to using cutting-edge technology and a strong data infrastructure to create perceptive solutions. Please take a moment to review each project to see the variety of data analytics and engineering talents I possess.
+>
 
 ---
 ##### My tools for Data Manipulation & Visualisation:-
