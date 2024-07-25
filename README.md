@@ -9,7 +9,7 @@
 >
 
 ---
-##### My tools for Programming, Data Manipulation & Visualisation:-
+##### My tools for programming, data Manipulation, storage & visualization:-
 
 
 | Python3 | Conda | Jupyter | Spark | MySQL | Postgres | SQLserver | AzureSQL | Plotly | Matplotlib |
