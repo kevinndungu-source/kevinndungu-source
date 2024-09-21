@@ -1,12 +1,21 @@
 
 
-![KEVIN NDUNGU](https://github.com/kevinndungu-source/kevinndungu-source/assets/114335263/0fc7fe6c-cc9a-42bb-89b5-8cc8be7f177c)
+![KEVIN NDUNGU 1](https://github.com/user-attachments/assets/4d612a58-56a7-4e8b-8d92-ef1d7cd062a9)
 
 
 ---
 
->Welcome to my **GitHub** **portfolio**: a collection of data-driven projects demonstrating my **cloud data engineering,** **data analytics,** and **business intelligence** expertise. Every project demonstrates my commitment to using cutting-edge technology and a strong data infrastructure to create perceptive solutions. Please take a moment to review each project to see the variety of data analytics and engineering talents I possess.
->
+### Welcome to my GitHub Portfolio
+
+Here, you'll find a dynamic collection of **data-driven projects** showcasing my expertise in:
+
+- **Cloud Data Engineering**: Architecting scalable, secure, and optimized data pipelines on cloud platforms.
+- **Data Analytics & Insights**: Providing insights through advanced analytics using **Python,** **SQL,** and industry-standard tools.
+- **Business Intelligence (BI)**: Crafting dashboards and visualizations that drive informed decision-making.
+- **FinTech Solutions**: Leveraging data engineering to support financial technologies, ensuring seamless transactions and secure processes.
+- **Cutting-Edge Technology**: Embracing the latest tools in cloud computing and big data to create resilient data infrastructures.
+
+Explore my projects and see how I use data to deliver impactful solutions!
 
 ---
 ##### My tools for programming, data manipulation, storage & visualization:-
