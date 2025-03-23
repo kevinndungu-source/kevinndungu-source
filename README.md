@@ -10,10 +10,11 @@
 Here, you'll find a dynamic collection of **data-driven projects** showcasing my expertise in:
 
 - **Cloud Data Engineering**: Architecting scalable, secure, and optimized data pipelines on cloud platforms.
-- **Data Analytics & Insights**: Providing insights through advanced analytics using **Python,** **SQL,** and industry-standard tools.
-- **Business Intelligence (BI)**: Crafting dashboards and visualizations that drive informed decision-making.
-- **FinTech Solutions**: Leveraging data engineering to support financial technologies, ensuring seamless transactions and secure processes.
-- **Cutting-Edge Technology**: Embracing the latest tools in cloud computing and big data to create resilient data infrastructures.
+- **FinTech Solutions**: Leveraging data engineering to power fintech with seamless, secure transactions.
+- **Analytics Engineering**: Unlocking insights with advanced analytics using **SQL**, **Python** and top industry tools.
+- **Cutting-Edge Technology**: Using cutting-edge cloud and big data tools to build resilient infrastructures.
+
+
 
 Explore my projects and see how I use data to deliver impactful solutions!
 
