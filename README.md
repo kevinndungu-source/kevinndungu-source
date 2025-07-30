@@ -18,7 +18,7 @@ Here, you'll find a dynamic collection of **data-driven projects** showcasing my
 Explore my projects and see how I use data to deliver impactful solutions!
 
 ---
-##### My tools for programming, data manipulation, storage & visualization:-
+##### My tool-stack for programming, data manipulation, storage & visualization:-
 
 
 | Python3 | Conda | Jupyter | Spark | SQLserver | Postgres | MySQL |
@@ -26,7 +26,7 @@ Explore my projects and see how I use data to deliver impactful solutions!
 | <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original-wordmark.svg" title="Anaconda" alt="Conda" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title="Jupyter" alt="Jupyter" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/apachespark/apachespark-original-wordmark.svg" title="Spark" alt="Spark" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-original.svg" title="SQL-Server" alt="SQL-Server" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="Postgres" alt="Postgres" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="Postgres" alt="Postgres" width="55" height="55"/> |
 
 ---
-##### Tools for working with frameworks and main libraries for Python3 | Version control, Environment & Testing:-
+##### Stack for working with frameworks and main libraries for Python3 | Version control, Environment & Testing:-
 
 | Numpy | Pandas | Scikitlearn | Git | GitHub | Docker | Postman |
 |----------|----------|----------|----------|----------|----------|----------|
