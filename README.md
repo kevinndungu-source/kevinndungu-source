@@ -1,7 +1,4 @@
 
-
-![KEVIN NDUNGU 1](https://github.com/user-attachments/assets/4d612a58-56a7-4e8b-8d92-ef1d7cd062a9)
-
 ![KEVIN NDUNGU 2](image-12.png)
 
 
