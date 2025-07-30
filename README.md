@@ -4,11 +4,11 @@
 
 ---
 
-  ### Welcome to my GitHub Portfolio
+### Welcome to my GitHub Portfolio
 
 Here, you'll find a dynamic collection of **data-driven projects** showcasing my expertise in:
 
--**Cloud Data Engineering**: Architecting scalable, secure, and optimized data pipelines on cloud platforms.
+- **Cloud Data Engineering**: Architecting scalable, secure, and optimized data pipelines on cloud platforms.
 - **FinTech Solutions**: Leveraging data engineering to power fintech with seamless, secure transactions.
 - **Analytics Engineering**: Unlocking insights with advanced analytics using **SQL**, **Python** and top industry tools.
 - **Cutting-Edge Technology**: Using cutting-edge cloud and big data tools to build resilient infrastructures.
