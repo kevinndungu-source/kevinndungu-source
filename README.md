@@ -4,9 +4,9 @@
 
 ---
 
-### Welcome to my GitHub Portfolio
+  ### Welcome to my GitHub Portfolio
 
-Here, you'll find a dynamic collection of **data-driven projects** showcasing my expertise in:
+  Here, you'll find a dynamic collection of **data-driven projects** showcasing my expertise in:
 
 - **Cloud Data Engineering**: Architecting scalable, secure, and optimized data pipelines on cloud platforms.
 - **FinTech Solutions**: Leveraging data engineering to power fintech with seamless, secure transactions.
@@ -15,7 +15,7 @@ Here, you'll find a dynamic collection of **data-driven projects** showcasing my
 
 
 
-Explore my projects and see how I use data to deliver impactful solutions!
+  Explore my projects and see how I use data to deliver impactful solutions!
 
 ---
 ##### My tools for programming, data manipulation, storage & visualization:-
