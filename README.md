@@ -42,7 +42,7 @@ Explore my projects and see how I use data to deliver impactful solutions!
 [![GCP_PDE](image-11.png)](https://www.credly.com/badges/bd5c71a6-21d1-4cac-a4d6-b6db7f02a1eb/public_url)
 [![KCNA](image-10.png)](https://www.credly.com/badges/75cc1e70-dbe3-4be9-b28e-eb532e4329df/linked_in_profile)
 [![AI_IBM](image-7.png)](https://www.credly.com/badges/5e55dbf4-86e5-430a-ad57-e066f3fdbdec)
-[![AWS_SAA](image-5.png)](https://www.credly.com/badges/e2222fbd-9c01-4064-be2f-0c1d5fd127e0/linked_in_profile)
+[![AWS_SAA](image-6.png)](https://www.credly.com/badges/e2222fbd-9c01-4064-be2f-0c1d5fd127e0/linked_in_profile)
 [![AWS_CP](image-6.png)](https://www.credly.com/badges/16d6ac8f-251c-4992-80d7-211446d48d65/linked_in_profile)
 
 
