@@ -37,6 +37,7 @@ Explore my projects and see how I use data to deliver impactful solutions!
 
 ##### Certifications:-
 
+[![ORACLE](image-14.png)](https://catalog-education.oracle.com/ords/certview/sharebadge?id=A759FC07E88DC76B64CBB888AA1CD4A9A8AFFF524CFDD7F46CED54DEF8041EF1)
 [![AWS_DBP](image-9.png)](https://credentials.databricks.com/7303410d-ff1e-4ba1-afdf-c41104d367a2#acc.3ujtaULd)
 [![GCP_PDE](image-11.png)](https://www.credly.com/badges/bd5c71a6-21d1-4cac-a4d6-b6db7f02a1eb/public_url)
 [![KCNA](image-10.png)](https://www.credly.com/badges/75cc1e70-dbe3-4be9-b28e-eb532e4329df/linked_in_profile)
